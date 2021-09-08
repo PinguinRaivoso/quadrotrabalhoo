@@ -1,0 +1,23 @@
+{
+  "name": "quadrotrabalhoo",
+  "version": "1.0.0",
+  "description": "as vezes eu fico pensando como tudo é dificil nessa vida",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PinguinRaivoso/quadrotrabalhoo.git"
+  },
+  "author": "João Victor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PinguinRaivoso/quadrotrabalhoo/issues"
+  },
+  "homepage": "https://github.com/PinguinRaivoso/quadrotrabalhoo#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.3"
+  }
+}
